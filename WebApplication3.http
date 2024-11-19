@@ -1,0 +1,6 @@
+@WebApplication3_HostAddress = http://localhost:5062
+
+GET {{WebApplication3_HostAddress}}/timeout/
+Accept: application/json
+
+###
